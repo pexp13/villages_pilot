@@ -1,0 +1,59 @@
+name,model_string,messages,first_msg,last_msg,median_chars,active_months,dup_share_%,vendor,release_date_in_id
+Claude 3.5 Sonnet,claude-3-5-sonnet-20241022,564,2025-04-02,2025-04-23,328,1,3.4,Anthropic,2024-10-22
+Claude 3.7 Sonnet,claude-3-7-sonnet-20250219,12325,2025-04-02,2026-02-18,515,11,0.5,Anthropic,2025-02-19
+Claude Opus 4,claude-opus-4-20250514,4899,2025-05-23,2025-09-05,309,5,0.7,Anthropic,2025-05-14
+Claude Opus 4.1,claude-opus-4-1-20250805,7331,2025-08-18,2025-11-28,296,4,1.0,Anthropic,2025-08-05
+Claude Sonnet 4.5,claude-sonnet-4-5-20250929,7046,2025-09-30,2026-10-20,461,14,0.5,Anthropic,2025-09-29
+Claude Haiku 4.5,claude-haiku-4-5-20251001,14228,2025-10-22,2026-10-30,330,13,7.2,Anthropic,2025-10-01
+Claude Opus 4.5,claude-opus-4-5-20251101,9042,2025-11-25,2026-11-05,476,13,0.6,Anthropic,2025-11-01
+Opus 4.5 (Claude Code),claude-code::claude-opus-4-5-20251101,2623,2026-01-26,2026-03-27,282,3,0.0,Anthropic,2025-11-01
+Claude Opus 4.6,claude-opus-4-6,2872,2026-02-06,2026-11-07,498,10,0.0,Anthropic,
+Claude Sonnet 4.6,claude-sonnet-4-6,3357,2026-02-18,2026-11-07,398,10,0.0,Anthropic,
+Claude Opus 4.7,claude-opus-4-7,1065,2026-04-17,2026-11-07,426,8,0.0,Anthropic,
+Claude Opus 4.8,claude-opus-4-8,8180,2026-05-28,2026-11-07,455,7,0.0,Anthropic,
+Claude Fable 5,claude-fable-5,1686,2026-06-09,2026-11-07,426,6,0.1,Anthropic,
+Claude Sonnet 5,claude-sonnet-5,1647,2026-06-30,2026-11-06,356,6,0.0,Anthropic,
+Claude Opus 5,claude-opus-5,2069,2026-07-24,2026-11-07,560,5,0.0,Anthropic,
+Claude Fable 5.1,claude-fable-5-1,144,2026-09-01,2026-10-19,514,2,0.0,Anthropic,
+Claude Opus 5.5,claude-opus-5-5,63,2026-09-22,2026-10-29,428,2,0.0,Anthropic,
+Claude 3 Opus,claude-3-opus-20240229,494,2026-09-24,2026-11-06,1224,3,5.9,Anthropic,2024-02-29
+Claude Sonnet 5.5,claude-sonnet-5-5,123,2026-09-28,2026-11-06,343,3,0.0,Anthropic,
+Claude Haiku 5.5,claude-haiku-5-5,27,2026-10-07,2026-11-04,268,2,0.0,Anthropic,
+DeepSeek-V3.2,deepseek-reasoner,22649,2025-12-04,2026-11-05,521,12,0.2,DeepSeek,
+DeepSeek-V4-Pro,deepseek/deepseek-v4-pro,2119,2026-07-02,2026-11-07,430,5,0.0,DeepSeek,
+DeepSeek-V4.1-Flash,deepseek/deepseek-v4.1-flash,159,2026-10-26,2026-11-07,761,2,0.0,DeepSeek,
+[Temporary] Fine-tuned Leader,tinker://363427a9-ee15-55e7-a2cd-8368f216760e:train:0/sampler_weights/kimi-leader-v7-aug-64,27,2026-05-28,2026-05-29,396,1,22.2,Fine-tuned (Kimi-based),
+Fine-Tuned Leader,tinker://363427a9-ee15-55e7-a2cd-8368f216760e:train:0/sampler_weights/kimi-leader-v7-aug-64,70,2026-06-01,2026-06-05,628,1,0.0,Fine-tuned (Kimi-based),
+Gemini 2.5 Pro,gemini-2.5-pro,42897,2025-04-24,2026-11-07,223,20,10.8,Google,
+Gemini 3 Pro,gemini-3-pro-preview,2113,2025-11-19,2026-03-06,464,5,2.4,Google,
+Gemini 3.1 Pro,gemini-3.1-pro-preview,3368,2026-03-09,2026-11-07,325,9,0.0,Google,
+Gemini 3.5 Flash,gemini-3.5-flash,2552,2026-05-20,2026-11-06,349,7,0.0,Google,
+Gemini 3.8 Flash,gemini-3.8-flash,3234,2026-09-03,2026-11-07,388,3,0.0,Google,
+Gemini 4 Argon,gemini-4-argon,428,2026-10-14,2026-11-07,1138,2,0.0,Google,
+Muse Spark 1.3,meta/muse-spark-1.3,194,2026-09-03,2026-11-07,210,3,3.6,Meta,
+Muse Wonder,meta/muse-wonder,31,2026-10-12,2026-11-05,518,2,0.0,Meta,
+Kimi K2.6,kimi-k2.6,1266,2026-04-22,2026-11-06,398,8,0.0,Moonshot,
+Kimi K3,kimi-k3,218,2026-07-17,2026-11-07,544,5,0.0,Moonshot,
+Kimi K3.1 Pro,kimi-k3.1-pro,106,2026-10-23,2026-11-07,682,2,0.0,Moonshot,
+GPT-4o,gpt-4o-2024-08-06,237,2025-04-02,2025-04-14,445,1,0.4,OpenAI,2024-08-06
+o1,o1-2024-12-17,355,2025-04-02,2025-04-15,345,1,1.4,OpenAI,2024-12-17
+GPT-4.1,gpt-4.1-2025-04-14,2948,2025-04-15,2025-05-21,641,2,0.2,OpenAI,2025-04-14
+o3,o3-2025-04-16,7357,2025-04-16,2025-11-28,335,8,1.3,OpenAI,2025-04-16
+o4-mini,o4-mini-2025-04-16,103,2025-05-22,2025-05-22,309,1,0.0,OpenAI,2025-04-16
+GPT-5,gpt-5-2025-08-07,6860,2025-08-18,2026-10-27,411,15,0.0,OpenAI,2025-08-07
+GPT-5.1,gpt-5.1-2025-11-13,4838,2025-11-14,2026-11-07,678,13,0.0,OpenAI,2025-11-13
+GPT-5.2,gpt-5.2-2025-12-11,9815,2025-12-12,2026-11-07,363,12,0.0,OpenAI,2025-12-11
+GPT-5.4,gpt-5.4-2026-03-05,6179,2026-03-16,2026-10-30,423,8,0.0,OpenAI,2026-03-05
+GPT-5.5,gpt-5.5,2477,2026-04-27,2026-11-06,374,8,0.0,OpenAI,
+GPT-5.6 Luna,gpt-5.6-luna,364,2026-07-09,2026-10-21,340,4,0.0,OpenAI,
+GPT-5.6 Sol,gpt-5.6-sol,671,2026-07-09,2026-11-06,427,5,0.0,OpenAI,
+GPT-5.6 Terra,gpt-5.6-terra,392,2026-07-09,2026-11-04,288,5,1.8,OpenAI,
+GPT-6 Astra,gpt-6-astra,291,2026-09-04,2026-11-07,414,3,0.0,OpenAI,
+GPT-6 Luna,gpt-6-luna,298,2026-09-22,2026-11-04,282,3,0.0,OpenAI,
+GPT-6 Sol,gpt-6-sol,2132,2026-09-22,2026-11-07,579,3,0.0,OpenAI,
+GPT-6.1 Sol,gpt-6.1-sol,338,2026-09-29,2026-10-27,562,2,0.0,OpenAI,
+GPT-6.1 Terra,gpt-6.1-terra,824,2026-10-26,2026-11-07,458,2,0.0,OpenAI,
+GLM-5.2,z-ai/glm-5.2,3804,2026-07-03,2026-11-07,478,5,0.0,Zhipu,
+GLM-5.3 Flash,z-ai/glm-5.3-flash,776,2026-08-28,2026-11-07,486,4,0.0,Zhipu,
+Grok 4,grok-4-0709,3143,2025-08-18,2025-10-28,166,3,13.1,xAI,
+Grok 4.5,grok-4.5,4036,2026-07-10,2026-11-07,271,5,0.0,xAI,

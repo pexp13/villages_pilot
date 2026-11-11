@@ -1,0 +1,195 @@
+vendor,model_a,model_b,shared_months,months,msgs_a,msgs_b,min_msgs
+Anthropic,Claude Haiku 4.5,Claude Opus 4.5,10,2025-11 … 2026-08,9156,9018,9018
+Anthropic,Claude Sonnet 4.5,Claude Haiku 4.5,11,2025-10 … 2026-08,6988,10185,6988
+Anthropic,Claude Haiku 4.5,Claude Opus 4.8,6,2026-05 … 2026-10,6731,8089,6731
+OpenAI,GPT-5.2,GPT-5.4,8,2026-03 … 2026-10,7447,6179,6179
+Anthropic,Claude 3.7 Sonnet,Claude Haiku 4.5,5,2025-10 … 2026-02,6413,6010,6010
+Anthropic,Claude 3.7 Sonnet,Claude Opus 4.1,4,2025-08 … 2025-11,5784,7331,5784
+Anthropic,Claude Sonnet 4.5,Claude Opus 4.5,10,2025-11 … 2026-08,5609,9018,5609
+Anthropic,Claude 3.7 Sonnet,Claude Sonnet 4.5,6,2025-09 … 2026-02,7793,5509,5509
+Anthropic,Claude 3.7 Sonnet,Claude Opus 4,5,2025-05 … 2025-09,5381,4899,4899
+OpenAI,GPT-5,GPT-5.2,9,2025-12 … 2026-10,4603,7886,4603
+OpenAI,GPT-5,GPT-5.1,10,2025-11 … 2026-10,4820,4585,4585
+OpenAI,GPT-5.1,GPT-5.2,11,2025-12 … 2026-10,4385,9670,4385
+Anthropic,Claude 3.7 Sonnet,Claude Opus 4.5,4,2025-11 … 2026-02,4342,4725,4342
+OpenAI,GPT-5,GPT-5.4,6,2026-03 … 2026-10,3992,3927,3927
+Anthropic,Claude Haiku 4.5,Claude Sonnet 4.6,9,2026-02 … 2026-10,9303,3340,3340
+Google,Gemini 2.5 Pro,Gemini 3.8 Flash,3,2026-09 … 2026-11,19124,3234,3234
+OpenAI,GPT-5.1,GPT-5.4,8,2026-03 … 2026-10,2985,6179,2985
+Google,Gemini 2.5 Pro,Gemini 3.1 Pro,8,2026-03 … 2026-11,23316,2909,2909
+Anthropic,Claude Opus 4.5,Claude Opus 4.6,7,2026-02 … 2026-08,5666,2863,2863
+Anthropic,Claude Haiku 4.5,Claude Opus 4.6,7,2026-02 … 2026-08,5260,2863,2863
+Anthropic,Claude Opus 4.6,Claude Sonnet 4.6,7,2026-02 … 2026-08,2863,2722,2722
+Anthropic,Claude Opus 4.5,Claude Sonnet 4.6,7,2026-02 … 2026-08,5666,2722,2722
+Anthropic,Claude Sonnet 4.5,Opus 4.5 (Claude Code),3,2026-01 … 2026-03,2996,2623,2623
+Anthropic,Claude Opus 4.5,Opus 4.5 (Claude Code),3,2026-01 … 2026-03,4500,2623,2623
+Anthropic,Claude Haiku 4.5,Opus 4.5 (Claude Code),3,2026-01 … 2026-03,3094,2623,2623
+Anthropic,Claude Sonnet 4.5,Claude Sonnet 4.6,7,2026-02 … 2026-08,2611,2722,2611
+Anthropic,Claude Sonnet 4.5,Claude Opus 4.6,7,2026-02 … 2026-08,2611,2863,2611
+Google,Gemini 2.5 Pro,Gemini 3.5 Flash,6,2026-05 … 2026-10,11888,2538,2538
+Anthropic,Claude Opus 4.1,Claude Sonnet 4.5,3,2025-09 … 2025-11,6572,2498,2498
+OpenAI,GPT-5.1,GPT-5.5,7,2026-04 … 2026-10,2608,2471,2471
+OpenAI,GPT-5.2,GPT-5.5,7,2026-04 … 2026-10,6303,2471,2471
+OpenAI,GPT-5.4,GPT-5.5,7,2026-04 … 2026-10,5536,2471,2471
+Anthropic,Claude Opus 4.1,Claude Haiku 4.5,2,2025-10 … 2025-11,4125,2364,2364
+Anthropic,Claude Opus 4.5,Claude Opus 4.8,4,2026-05 … 2026-08,2329,4477,2329
+OpenAI,o3,GPT-5,4,2025-08 … 2025-11,4043,2237,2237
+DeepSeek,DeepSeek-V3.2,DeepSeek-V4-Pro,5,2026-07 … 2026-11,14299,2119,2119
+Google,Gemini 2.5 Pro,Gemini 3 Pro,5,2025-11 … 2026-03,7785,2113,2113
+Google,Gemini 3.1 Pro,Gemini 3.5 Flash,6,2026-05 … 2026-10,2106,2538,2106
+Anthropic,Claude Opus 4.8,Claude Opus 5,5,2026-07 … 2026-11,7476,2069,2069
+Anthropic,Claude Opus 4,Claude Opus 4.1,2,2025-08 … 2025-09,2046,3206,2046
+Anthropic,Opus 4.5 (Claude Code),Claude Opus 4.6,2,2026-02 … 2026-03,2386,1948,1948
+Anthropic,Claude Haiku 4.5,Claude Opus 5,4,2026-07 … 2026-10,5722,1893,1893
+OpenAI,GPT-5.2,GPT-6 Sol,3,2026-09 … 2026-11,1737,2132,1737
+OpenAI,GPT-5,GPT-6 Sol,2,2026-09 … 2026-10,2524,1726,1726
+Anthropic,Claude Opus 4.8,Claude Fable 5,6,2026-06 … 2026-11,8132,1686,1686
+Anthropic,Claude Sonnet 4.6,Claude Opus 4.8,6,2026-05 … 2026-10,1659,8089,1659
+Anthropic,Claude Haiku 4.5,Claude Sonnet 5,5,2026-06 … 2026-10,6149,1643,1643
+Anthropic,Claude Opus 4.8,Claude Sonnet 5,5,2026-06 … 2026-10,8041,1643,1643
+Anthropic,Claude Fable 5,Claude Sonnet 5,5,2026-06 … 2026-10,1639,1643,1639
+Anthropic,Claude Haiku 4.5,Claude Fable 5,5,2026-06 … 2026-10,6149,1639,1639
+Anthropic,Claude Fable 5,Claude Opus 5,5,2026-07 … 2026-11,1569,2069,1569
+Anthropic,Claude Sonnet 5,Claude Opus 5,4,2026-07 … 2026-10,1556,1893,1556
+Anthropic,Opus 4.5 (Claude Code),Claude Sonnet 4.6,2,2026-02 … 2026-03,2386,1487,1487
+OpenAI,GPT-4.1,o3,2,2025-04 … 2025-05,2948,1283,1283
+Anthropic,Claude 3.7 Sonnet,Opus 4.5 (Claude Code),2,2026-01 … 2026-02,1606,1257,1257
+Anthropic,Claude Sonnet 4.6,Claude Sonnet 5,5,2026-06 … 2026-10,1219,1643,1219
+Anthropic,Claude Sonnet 4.6,Claude Fable 5,5,2026-06 … 2026-10,1219,1639,1219
+Anthropic,Claude Sonnet 4.6,Claude Opus 5,4,2026-07 … 2026-10,1111,1893,1111
+OpenAI,GPT-5,GPT-5.5,5,2026-04 … 2026-10,3868,1067,1067
+Anthropic,Claude Sonnet 4.6,Claude Opus 4.7,5,2026-04 … 2026-08,1235,1020,1020
+Anthropic,Claude Haiku 4.5,Claude Opus 4.7,5,2026-04 … 2026-08,3340,1020,1020
+Anthropic,Claude Opus 4.5,Claude Opus 4.7,5,2026-04 … 2026-08,2769,1020,1020
+Anthropic,Claude Opus 4.5,Claude Fable 5,3,2026-06 … 2026-08,1403,1018,1018
+Anthropic,Claude Opus 4.5,Claude Sonnet 5,3,2026-06 … 2026-08,1403,1012,1012
+Anthropic,Claude Opus 4.7,Claude Opus 4.8,4,2026-05 … 2026-08,938,4477,938
+Anthropic,Claude Opus 4.6,Claude Opus 4.7,5,2026-04 … 2026-08,915,1020,915
+OpenAI,GPT-5.2,GPT-6.1 Terra,2,2026-10 … 2026-11,1036,824,824
+OpenAI,GPT-6 Sol,GPT-6.1 Terra,2,2026-10 … 2026-11,2059,824,824
+Google,Gemini 3.5 Flash,Gemini 3.8 Flash,2,2026-09 … 2026-10,814,2672,814
+Zhipu,GLM-5.2,GLM-5.3 Flash,3,2026-08 … 2026-10,2430,775,775
+Anthropic,Claude Opus 4.5,Claude Opus 5,2,2026-07 … 2026-08,970,753,753
+Anthropic,Claude Opus 4.6,Claude Opus 4.8,4,2026-05 … 2026-08,687,4477,687
+Anthropic,Claude Sonnet 4.5,Claude Opus 4.7,5,2026-04 … 2026-08,678,1020,678
+OpenAI,GPT-5.2,GPT-5.6 Sol,5,2026-07 … 2026-11,3853,671,671
+Anthropic,Claude 3.7 Sonnet,Claude Opus 4.6,1,2026-02 … 2026-02,642,921,642
+OpenAI,GPT-5.6 Sol,GPT-6 Sol,3,2026-09 … 2026-11,584,2132,584
+Anthropic,Claude Sonnet 4.5,Claude Opus 4.8,4,2026-05 … 2026-08,545,4477,545
+OpenAI,GPT-5,GPT-5.6 Sol,4,2026-07 … 2026-10,3747,539,539
+OpenAI,GPT-5.1,GPT-5.6 Sol,4,2026-07 … 2026-10,2260,539,539
+OpenAI,GPT-5.4,GPT-5.6 Sol,4,2026-07 … 2026-10,2005,539,539
+OpenAI,GPT-5.5,GPT-5.6 Sol,4,2026-07 … 2026-10,1027,539,539
+Anthropic,Claude 3.5 Sonnet,Claude 3.7 Sonnet,1,2025-04 … 2025-04,564,531,531
+Anthropic,Claude 3.7 Sonnet,Claude Sonnet 4.6,1,2026-02 … 2026-02,642,525,525
+Anthropic,Claude Fable 5,Claude 3 Opus,2,2026-09 … 2026-10,621,489,489
+Anthropic,Claude Haiku 4.5,Claude 3 Opus,2,2026-09 … 2026-10,4043,489,489
+Anthropic,Claude Sonnet 4.6,Claude 3 Opus,2,2026-09 … 2026-10,618,489,489
+Anthropic,Claude Opus 4.8,Claude 3 Opus,2,2026-09 … 2026-10,3612,489,489
+Anthropic,Claude Sonnet 5,Claude 3 Opus,2,2026-09 … 2026-10,631,489,489
+Anthropic,Claude Opus 5,Claude 3 Opus,2,2026-09 … 2026-10,1140,489,489
+OpenAI,GPT-5.1,GPT-6 Sol,2,2026-09 … 2026-10,477,1726,477
+Anthropic,Claude Opus 4.7,Claude Fable 5,3,2026-06 … 2026-08,458,1018,458
+Anthropic,Claude Opus 4.7,Claude Sonnet 5,3,2026-06 … 2026-08,458,1012,458
+OpenAI,o3,GPT-5.1,1,2025-11 … 2025-11,867,448,448
+Google,Gemini 2.5 Pro,Gemini 4 Argon,2,2026-10 … 2026-11,17031,428,428
+Google,Gemini 3.8 Flash,Gemini 4 Argon,2,2026-10 … 2026-11,2282,428,428
+OpenAI,GPT-5.6 Sol,GPT-6.1 Terra,2,2026-10 … 2026-11,398,824,398
+OpenAI,GPT-5.2,GPT-5.6 Terra,4,2026-07 … 2026-10,3708,385,385
+OpenAI,GPT-5.6 Sol,GPT-5.6 Terra,4,2026-07 … 2026-10,539,385,385
+OpenAI,GPT-5,GPT-5.6 Terra,4,2026-07 … 2026-10,3747,385,385
+OpenAI,GPT-5.1,GPT-5.6 Terra,4,2026-07 … 2026-10,2260,385,385
+OpenAI,GPT-5.4,GPT-5.6 Terra,4,2026-07 … 2026-10,2005,385,385
+OpenAI,GPT-5.5,GPT-5.6 Terra,4,2026-07 … 2026-10,1027,385,385
+Anthropic,Claude Opus 4.6,Claude Fable 5,3,2026-06 … 2026-08,368,1018,368
+Anthropic,Claude Opus 4.6,Claude Sonnet 5,3,2026-06 … 2026-08,368,1012,368
+OpenAI,o1,GPT-4.1,1,2025-04 … 2025-04,355,606,355
+OpenAI,GPT-5.1,GPT-5.6 Luna,2,2026-07 … 2026-08,1783,349,349
+OpenAI,GPT-5,GPT-5.6 Luna,2,2026-07 … 2026-08,1223,349,349
+OpenAI,GPT-5.2,GPT-5.6 Luna,2,2026-07 … 2026-08,2116,349,349
+OpenAI,GPT-5.4,GPT-5.6 Luna,2,2026-07 … 2026-08,1805,349,349
+OpenAI,GPT-5.5,GPT-5.6 Luna,2,2026-07 … 2026-08,904,349,349
+OpenAI,GPT-5.6 Sol,GPT-6.1 Sol,2,2026-09 … 2026-10,452,338,338
+OpenAI,GPT-6 Sol,GPT-6.1 Sol,2,2026-09 … 2026-10,1726,338,338
+OpenAI,GPT-5.1,GPT-6.1 Sol,2,2026-09 … 2026-10,477,338,338
+OpenAI,GPT-5,GPT-6.1 Sol,2,2026-09 … 2026-10,2524,338,338
+OpenAI,GPT-5.2,GPT-6.1 Sol,2,2026-09 … 2026-10,1592,338,338
+Anthropic,Claude Sonnet 4.5,Claude Fable 5,3,2026-06 … 2026-08,304,1018,304
+Anthropic,Claude Sonnet 4.5,Claude Sonnet 5,3,2026-06 … 2026-08,304,1012,304
+Google,Gemini 3.5 Flash,Gemini 4 Argon,1,2026-10 … 2026-10,666,299,299
+Anthropic,Claude Opus 4.1,Claude Opus 4.5,1,2025-11 … 2025-11,1628,289,289
+OpenAI,GPT-5.1,GPT-6 Luna,2,2026-09 … 2026-10,477,288,288
+OpenAI,GPT-5.6 Sol,GPT-6 Luna,2,2026-09 … 2026-10,452,288,288
+OpenAI,GPT-5,GPT-6 Luna,2,2026-09 … 2026-10,2524,288,288
+OpenAI,GPT-5.2,GPT-6 Luna,2,2026-09 … 2026-10,1592,288,288
+OpenAI,GPT-6 Luna,GPT-6.1 Sol,2,2026-09 … 2026-10,288,338,288
+OpenAI,GPT-6 Luna,GPT-6 Sol,2,2026-09 … 2026-10,288,1726,288
+OpenAI,GPT-6 Astra,GPT-6 Luna,2,2026-09 … 2026-10,286,288,286
+OpenAI,GPT-5.1,GPT-6 Astra,2,2026-09 … 2026-10,477,286,286
+OpenAI,GPT-6 Astra,GPT-6.1 Sol,2,2026-09 … 2026-10,286,338,286
+OpenAI,GPT-6 Astra,GPT-6 Sol,2,2026-09 … 2026-10,286,1726,286
+OpenAI,GPT-5.6 Sol,GPT-6 Astra,2,2026-09 … 2026-10,452,286,286
+OpenAI,GPT-5,GPT-6 Astra,2,2026-09 … 2026-10,2524,286,286
+OpenAI,GPT-5.2,GPT-6 Astra,2,2026-09 … 2026-10,1592,286,286
+OpenAI,GPT-5,GPT-6.1 Terra,1,2026-10 … 2026-10,1342,264,264
+Anthropic,Claude Opus 4.7,Claude Opus 5,2,2026-07 … 2026-08,262,753,262
+OpenAI,GPT-6.1 Sol,GPT-6.1 Terra,1,2026-10 … 2026-10,238,264,238
+OpenAI,GPT-4o,GPT-4.1,1,2025-04 … 2025-04,237,606,237
+OpenAI,GPT-4o,o1,1,2025-04 … 2025-04,237,355,237
+OpenAI,GPT-5.6 Luna,GPT-5.6 Terra,2,2026-07 … 2026-08,349,212,212
+Google,Gemini 3.1 Pro,Gemini 3.8 Flash,3,2026-09 … 2026-11,204,3234,204
+OpenAI,GPT-5.4,GPT-6 Sol,2,2026-09 … 2026-10,200,1726,200
+OpenAI,GPT-5.4,GPT-6 Astra,2,2026-09 … 2026-10,200,286,200
+OpenAI,GPT-5.4,GPT-6 Luna,2,2026-09 … 2026-10,200,288,200
+OpenAI,GPT-5.4,GPT-6.1 Sol,2,2026-09 … 2026-10,200,338,200
+Moonshot,Kimi K2.6,Kimi K3,3,2026-07 … 2026-09,524,190,190
+OpenAI,GPT-5.1,GPT-6.1 Terra,1,2026-10 … 2026-10,184,264,184
+Google,Gemini 3 Pro,Gemini 3.1 Pro,1,2026-03 … 2026-03,175,676,175
+OpenAI,GPT-5.6 Terra,GPT-6.1 Sol,2,2026-09 … 2026-10,173,338,173
+OpenAI,GPT-5.6 Terra,GPT-6 Sol,2,2026-09 … 2026-10,173,1726,173
+OpenAI,GPT-5.6 Terra,GPT-6 Luna,2,2026-09 … 2026-10,173,288,173
+OpenAI,GPT-5.6 Terra,GPT-6 Astra,2,2026-09 … 2026-10,173,286,173
+OpenAI,o1,o3,1,2025-04 … 2025-04,355,172,172
+OpenAI,GPT-4o,o3,1,2025-04 … 2025-04,237,172,172
+Google,Gemini 3.1 Pro,Gemini 4 Argon,2,2026-10 … 2026-11,168,428,168
+DeepSeek,DeepSeek-V3.2,DeepSeek-V4.1-Flash,2,2026-10 … 2026-11,2303,159,159
+DeepSeek,DeepSeek-V4-Pro,DeepSeek-V4.1-Flash,2,2026-10 … 2026-11,555,159,159
+Anthropic,Claude Sonnet 4.5,Claude Opus 5,2,2026-07 … 2026-08,158,753,158
+OpenAI,GPT-6 Astra,GPT-6.1 Terra,1,2026-10 … 2026-10,140,264,140
+Anthropic,Claude Sonnet 5,Claude Fable 5.1,1,2026-09 … 2026-09,312,136,136
+Anthropic,Claude Opus 5,Claude Fable 5.1,1,2026-09 … 2026-09,401,136,136
+Anthropic,Claude Opus 4.8,Claude Fable 5.1,1,2026-09 … 2026-09,1475,136,136
+Anthropic,Claude Haiku 4.5,Claude Fable 5.1,1,2026-09 … 2026-09,915,136,136
+Anthropic,Claude Sonnet 4.6,Claude Fable 5.1,1,2026-09 … 2026-09,291,136,136
+Anthropic,Claude Fable 5,Claude Fable 5.1,1,2026-09 … 2026-09,199,136,136
+Anthropic,Claude Fable 5.1,Claude 3 Opus,1,2026-09 … 2026-09,136,169,136
+OpenAI,GPT-6 Luna,GPT-6.1 Terra,1,2026-10 … 2026-10,133,264,133
+OpenAI,GPT-5.5,GPT-6.1 Sol,2,2026-09 … 2026-10,123,338,123
+OpenAI,GPT-5.5,GPT-6 Sol,2,2026-09 … 2026-10,123,1726,123
+OpenAI,GPT-5.5,GPT-6 Astra,2,2026-09 … 2026-10,123,286,123
+OpenAI,GPT-5.5,GPT-6 Luna,2,2026-09 … 2026-10,123,288,123
+Anthropic,Claude Sonnet 4.6,Claude Sonnet 5.5,2,2026-09 … 2026-10,618,114,114
+Anthropic,Claude Opus 5,Claude Sonnet 5.5,2,2026-09 … 2026-10,1140,114,114
+Anthropic,Claude Fable 5,Claude Sonnet 5.5,2,2026-09 … 2026-10,621,114,114
+Anthropic,Claude Sonnet 5,Claude Sonnet 5.5,2,2026-09 … 2026-10,631,114,114
+Anthropic,Claude 3 Opus,Claude Sonnet 5.5,2,2026-09 … 2026-10,489,114,114
+Anthropic,Claude Haiku 4.5,Claude Sonnet 5.5,2,2026-09 … 2026-10,4043,114,114
+Anthropic,Claude Opus 4.8,Claude Sonnet 5.5,2,2026-09 … 2026-10,3612,114,114
+OpenAI,GPT-4.1,o4-mini,1,2025-05 … 2025-05,2342,103,103
+OpenAI,o3,o4-mini,1,2025-05 … 2025-05,1111,103,103
+Anthropic,Claude Opus 4.6,Claude Opus 5,2,2026-07 … 2026-08,94,753,94
+OpenAI,GPT-5.6 Terra,GPT-6.1 Terra,1,2026-10 … 2026-10,89,264,89
+OpenAI,GPT-5.6 Luna,GPT-5.6 Sol,2,2026-07 … 2026-08,349,87,87
+Moonshot,Kimi K2.6,Kimi K3.1 Pro,1,2026-10 … 2026-10,388,85,85
+Anthropic,Claude Opus 4,Claude Sonnet 4.5,1,2025-09 … 2025-09,608,55,55
+OpenAI,GPT-5.5,GPT-6.1 Terra,1,2026-10 … 2026-10,49,264,49
+Anthropic,Claude Sonnet 4.6,Claude Opus 5.5,1,2026-10 … 2026-10,327,42,42
+Anthropic,Claude Haiku 4.5,Claude Opus 5.5,1,2026-10 … 2026-10,3128,42,42
+Anthropic,Claude Opus 5.5,Claude Sonnet 5.5,1,2026-10 … 2026-10,42,84,42
+Anthropic,Claude Opus 5.5,Claude 3 Opus,1,2026-10 … 2026-10,42,320,42
+Anthropic,Claude Opus 4.8,Claude Opus 5.5,1,2026-10 … 2026-10,2137,42,42
+Anthropic,Claude Sonnet 5,Claude Opus 5.5,1,2026-10 … 2026-10,319,42,42
+Anthropic,Claude Fable 5,Claude Opus 5.5,1,2026-10 … 2026-10,422,42,42
+Anthropic,Claude Opus 5,Claude Opus 5.5,1,2026-10 … 2026-10,739,42,42
+OpenAI,GPT-5.4,GPT-6.1 Terra,1,2026-10 … 2026-10,32,264,32
+Anthropic,Claude Fable 5.1,Claude Sonnet 5.5,1,2026-09 … 2026-09,136,30,30
